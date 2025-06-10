@@ -59,7 +59,7 @@ My name is Hong Sieun and I am a <strong>Front-End? Developer</strong>.<br>
 
 <br>
 
-## 🧑🏻‍💻History
+## 🧑🏻‍💻 History
 <br>
 
   <h3 align="center">Chungbuk National University - Software Engineering</h3>
@@ -70,6 +70,16 @@ My name is Hong Sieun and I am a <strong>Front-End? Developer</strong>.<br>
   <h3 align="center">SSAFY 13기 - Mobile track</h3>
   <p align="center">
   * 2025.1 ~ <br/><br/>
+
+## 💻 Project  </h3>
+<div align="center">
+
+  |기간|프로젝트명|설명|
+  |------|---|---|
+  |2024.10|☕️ [**Company-Internal-Cafe-System**](https://github.com/XIOZ119/Company-Internal-Cafe-System)|사내 카페 주문 시스템|
+  |2024.07|📚 [**CBNU-Mentor-Mentee**](https://github.com/MentorMenteeCore/mentor-mentee-front)|충북대학교 멘토멘티 홈페이지|
+
+</div>
 
 
 
