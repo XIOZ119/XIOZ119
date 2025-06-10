@@ -20,7 +20,9 @@ My name is Hong Sieun and I am a <strong>Front-End? Developer</strong>.<br>
 <br>
 
 ![Sieun's GitHub stats](https://github-readme-stats.vercel.app/api?username=XIOZ119&show_icons=true&theme=radical)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XIOZ119&layout=compact)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sieun4449)](https://solved.ac/sieun4449/) 
+ 
 ## 💼 Skills & Interests 🧐
 
 <br>
