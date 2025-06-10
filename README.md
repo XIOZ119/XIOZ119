@@ -1,9 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=300&section=header&text=welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=myoungsuk's%20GitHub%20Profile&descAlignY=51&descAlign=62&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=856088&height=300&section=header&text=welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=sieun's%20GitHub%20Profile&descAlignY=51&descAlign=62&fontColor=FFFFFF)
 
 
 <p align="center">
 👋 Nice to meet you!<br>
-My name is Kang Myoung Suk and I am a <strong>Back-End Developer</strong>.<br>
+My name is Hong Sieun and I am a <strong>Front-End? Developer</strong>.<br>
 </p>
 <br>
 
@@ -31,13 +31,10 @@ My name is Kang Myoung Suk and I am a <strong>Back-End Developer</strong>.<br>
 <h3 align="center">🗄️ Database Tech Stack 🗄️</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/MySql-E6B91E?style=flat&logo=MySql&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/MariaDB-00599C?style=flat&logo=mariadb&logoColor=white"/></a>&nbsp
-
 </p>
 
 <h3 align="center">🔗 Other Tech Stack 🔗</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Docker-DB3552?style=flat&logo=Docker&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/aws-333664?style=flat&logo=amazon-aws&logoColor=white"/></a>&nbsp
 </p>
 
@@ -53,7 +50,6 @@ My name is Kang Myoung Suk and I am a <strong>Back-End Developer</strong>.<br>
 <p align="center">
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=AndroidStudio&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/-IntelliJ_IDEA-2C2255?style=flat&logo=intellij-idea&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/-GitKraken-179287?style=flat&logo=gitkraken&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/></a>&nbsp
 </p>
 
@@ -64,17 +60,14 @@ My name is Kang Myoung Suk and I am a <strong>Back-End Developer</strong>.<br>
 
   <h3 align="center">Chungbuk National University - Software Engineering</h3>
   <p align="center">
-  *  ~ 2023.8<br/><br/>
+  *  ~ 2025.2<br/><br/>
 
-   <h3 align="center">멀티캠퍼스 백엔드 스쿨</h3>
+
+  <h3 align="center">SSAFY 13기 - Mobile track</h3>
   <p align="center">
-  * ~ 2024.2<br/><br/>
-
-  <h3 align="center">호아소프트 - 트레이딩 시스템 서버개발</h3>
-  <p align="center">
-  * 2024.2 ~ <br/><br/>
+  * 2025.1 ~ <br/><br/>
 
 
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=856088&height=100&section=footer)
