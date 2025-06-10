@@ -19,6 +19,8 @@ My name is Hong Sieun and I am a <strong>Front-End? Developer</strong>.<br>
 
 <br>
 
+![Sieun's GitHub stats](https://github-readme-stats.vercel.app/api?username=XIOZ119&show_icons=true&theme=radical)
+
 ## 💼 Skills & Interests 🧐
 
 <br>
