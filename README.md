@@ -50,7 +50,7 @@ A **Back-End Developer** passionate about clean and efficient code.
 
 ## 💻 Projects
 
-### ☕️ [Company-Internal-Cafe-System](https://github.com/XIOZ119/Company-Internal-Cafe-System) (2024.10)
+### ☕️ [Company-Internal-Cafe-System](https://github.com/XIOZ119/Company-Internal-Cafe-System) (2023.10)
 
 An internal cafe ordering system using **PHP** and **MySQL**.  
 Role: **Team Leader** — implemented menu ordering logic and managed the database.
