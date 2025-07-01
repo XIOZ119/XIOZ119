@@ -60,5 +60,10 @@ Role: **Team Leader** — implemented menu ordering logic and managed the databa
 A mentorship matching website for Chungbuk National University using **TypeScript** and **React**.  
 Role: **Sole Front-End Developer** — built the entire front-end independently.
 
+### 🍳 Yoriyo (2024.05)
+
+A cooking ingredient ordering store and cart-based AI recipe recommendation app using **Kotlin** and **Firebase**.  
+Role: **Front-End Developer** — designed UI/UX, implemented screens, added store map lookup, and integrated notifications with FCM.
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XIOZ119&layout=compact)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sieun4449)](https://solved.ac/sieun4449/)
