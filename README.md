@@ -1,87 +1,66 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=856088&height=300&section=header&text=welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=sieun's%20GitHub%20Profile&descAlignY=51&descAlign=62&fontColor=FFFFFF)
+👋 Nice to meet you!
 
+# Hong Sieun
+A **Back-End Developer** passionate about clean and efficient code.
 
-<p align="center">
-👋 Nice to meet you!<br>
-My name is Hong Sieun and I am a <strong>Front-End? Developer</strong>.<br>
-</p>
-<br>
+## 👩🏻‍💻 About Me
 
-<h3 align="center">🌐 Connect with Me 🌐</h3>
-<p align="center">
-  <a href="https://www.instagram.com/c_eun19"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/myoung_suk.0212/"/></a>&nbsp
-</p>
+- 📌 Currently studying at SSAFY to deepen my back-end development skills.
+- 🚀 Interested in scalable system architecture and clean code practices.
+- 🎯 Future goal: Become a back-end developer who can contribute to impactful projects.
 
-<h3 align="center">📧 Email 📧</h3>
-<p align="center">
-  <a href="tjwns53@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=tjwnsr53@gmail.com"/></a>
-</p>
+## 🌐 Connect with Me
 
-<br>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/c_eun19)
+[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white)](mailto:tjwns53@naver.com)
 
-![Sieun's GitHub stats](https://github-readme-stats.vercel.app/api?username=XIOZ119&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XIOZ119&layout=compact)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sieun4449)](https://solved.ac/sieun4449/) 
- 
-## 💼 Skills & Interests 🧐
+## 💼 Skills & Interests
 
-<br>
+### 🔧 Tools
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=AndroidStudio&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-2C2255?style=flat&logo=intellij-idea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-<h3 align="center">🛠️ Back-End Tech Stack 🛠️</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=Spring&logoColor=white"/></a>&nbsp
-</p>
-<h3 align="center">🗄️ Database Tech Stack 🗄️</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/MySql-E6B91E?style=flat&logo=MySql&logoColor=white"/></a>&nbsp
-</p>
+### 🛠️ Back-End
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=Spring&logoColor=white)
 
-<h3 align="center">🔗 Other Tech Stack 🔗</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/aws-333664?style=flat&logo=amazon-aws&logoColor=white"/></a>&nbsp
-</p>
+### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-E6B91E?style=flat&logo=MySQL&logoColor=white)
 
-<h3 align="center">💻 Front-End Tech Stack 💻</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/HTML-00599C?style=flat&logo=html5&logoColor=white"/></a>&nbsp
-  <img src ="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/></a>&nbsp
+### 💻 Front-End
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-00599C?style=flat&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3077C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white)
+![Vue](https://img.shields.io/badge/vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white)
 
-</p>
-
-<h3 align="center">🔧 Tools 🔧</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=AndroidStudio&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/-IntelliJ_IDEA-2C2255?style=flat&logo=intellij-idea&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/></a>&nbsp
-</p>
-
-<br>
+### 🔗 Cloud & Other
+![AWS](https://img.shields.io/badge/AWS-333664?style=flat&logo=amazon-aws&logoColor=white)
+![Gitgub](https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white)
 
 ## 🧑🏻‍💻 History
-<br>
 
-  <h3 align="center">Chungbuk National University - Software Engineering</h3>
-  <p align="center">
-  *  ~ 2025.2<br/><br/>
+- **2025.01 ~ Present**  
+  SSAFY 13th - Mobile Track
 
+- **2019.03 ~ 2025.02**  
+  Chungbuk National University  
+  Major in Chinese Language & Literature, Double Major in Software Engineering
 
-  <h3 align="center">SSAFY 13기 - Mobile track</h3>
-  <p align="center">
-  * 2025.1 ~ <br/><br/>
+## 💻 Projects
 
-## 💻 Project  </h3>
-<div align="center">
+### ☕️ [Company-Internal-Cafe-System](https://github.com/XIOZ119/Company-Internal-Cafe-System) (2024.10)
 
-  |기간|프로젝트명|설명|
-  |------|---|---|
-  |2024.10|☕️ [**Company-Internal-Cafe-System**](https://github.com/XIOZ119/Company-Internal-Cafe-System)|사내 카페 주문 시스템|
-  |2024.07|📚 [**CBNU-Mentor-Mentee**](https://github.com/MentorMenteeCore/mentor-mentee-front)|충북대학교 멘토멘티 홈페이지|
+An internal cafe ordering system using **PHP** and **MySQL**.  
+Role: **Team Leader** — implemented menu ordering logic and managed the database.
 
-</div>
+### 📚 [CBNU-Mentor-Mentee](https://github.com/MentorMenteeCore/mentor-mentee-front) (2024.07)
 
+A mentorship matching website for Chungbuk National University using **TypeScript** and **React**.  
+Role: **Sole Front-End Developer** — built the entire front-end independently.
 
-
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=856088&height=100&section=footer)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XIOZ119&layout=compact)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sieun4449)](https://solved.ac/sieun4449/)
