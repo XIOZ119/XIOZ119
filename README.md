@@ -1,5 +1,3 @@
-👋 Nice to meet you!
-
 # Hong Sieun
 A **Back-End Developer** passionate about clean and efficient code.
 
