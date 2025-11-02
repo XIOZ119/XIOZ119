@@ -21,10 +21,13 @@ A **Back-End Developer** passionate about clean and efficient code.
 
 ### 🛠️ Back-End
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-B916DD?style=flat&logo=Kotlin&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=Spring&logoColor=white)
 
 ### 🗄️ Database
 ![MySQL](https://img.shields.io/badge/MySQL-E6B91E?style=flat&logo=MySQL&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-306091?style=flat&logo=PostgreSQL&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-A41E11?style=flat&logo=Redis&logoColor=white)
 
 ### 💻 Front-End
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
@@ -36,7 +39,7 @@ A **Back-End Developer** passionate about clean and efficient code.
 
 ### 🔗 Cloud & Other
 ![AWS](https://img.shields.io/badge/AWS-333664?style=flat&logo=amazon-aws&logoColor=white)
-![Gitgub](https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white)
+![Github](https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white)
 
 ## 🧑🏻‍💻 History
@@ -62,29 +65,29 @@ Role: **Sole Front-End Developer** — built the entire front-end independently.
 
 ### 🍳 Yoriyo (2025.05)
 
-A cooking ingredient ordering store and cart-based AI recipe recommendation app using **Kotlin** and **Firebase**.  
+A cooking ingredient ordering store and cart-based AI recipe recommendation app using **Kotlin** and **Firebase**. </br>
 Role: **Front-End Developer** — designed UI/UX, implemented screens, added store map lookup, and integrated notifications with FCM.
 
 ### 📋 [Port-It](https://github.com/chungbuk-data-contest) (2025.06)
 
-A portfolio-based recruitment platform that connects job seekers and companies through AI-driven matching and real-time communication.
+A portfolio-based recruitment platform that connects job seekers and companies through AI-driven matching and real-time communication. </br>
 Role: **Back-End Developer** — developed key business logic for portfolio and company management, implemented public data integration, and used QueryDSL to build efficient and readable queries.
 
 ### 🌳 [JJongle](https://github.com/JJongle-ssafy) (2025.07)
 
-An AI-driven creativity learning platform designed for elementary after-school programs. By recognizing real tangram pieces through a camera, JJongle turns analog learning into interactive digital games.
+An AI-driven creativity learning platform designed for elementary after-school programs. By recognizing real tangram pieces through a camera, JJongle turns analog learning into interactive digital games. </br>
 Role: **Back-End Developer** — built learning content APIs, designed the MSA infrastructure, and optimized inter-service communication.
 
 ### 📰 [My-issue](https://github.com/My-issue-ssafy) (2025.09)
 
 A multi-modal personalized news platform that transforms text articles into four-panel comics and short podcasts,
-offering an immersive news experience in minimal time.
+offering an immersive news experience in minimal time. </br>
 Role: **Back-End Developer** — developed JWT authentication, personalized push notifications, and a podcast automation pipeline.
 
 ### 💡 [Wisl](https://github.com/crayon-wisl) (2025.10)
 
 A collaborative AI idea-expansion & funding ecosystem built on a microservice architecture (MSA).
-WISL enables users to grow ideas from concept → proposal → funding → realization, integrating AI mind-mapping, funding, and planning modules.
+WISL enables users to grow ideas from concept → proposal → funding → realization, integrating AI mind-mapping, funding, and planning modules. </br>
 Role: **Back-End Developer** — implemented core business logic for funding, planning, and notification services within a Spring Cloud–based MSA environment.
 
 
