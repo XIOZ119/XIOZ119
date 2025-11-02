@@ -70,7 +70,23 @@ Role: **Front-End Developer** — designed UI/UX, implemented screens, added sto
 A portfolio-based recruitment platform that connects job seekers and companies through AI-driven matching and real-time communication.
 Role: **Back-End Developer** — developed key business logic for portfolio and company management, implemented public data integration, and used QueryDSL to build efficient and readable queries.
 
-### 🌳 JJongle (2025.07)
+### 🌳 [JJongle](https://github.com/JJongle-ssafy) (2025.07)
+
+An AI-driven creativity learning platform designed for elementary after-school programs. By recognizing real tangram pieces through a camera, JJongle turns analog learning into interactive digital games.
+Role: **Back-End Developer** — built learning content APIs, designed the MSA infrastructure, and optimized inter-service communication.
+
+### 📰 [My-issue](https://github.com/My-issue-ssafy) (2025.09)
+
+A multi-modal personalized news platform that transforms text articles into four-panel comics and short podcasts,
+offering an immersive news experience in minimal time.
+Role: **Back-End Developer** — developed JWT authentication, personalized push notifications, and a podcast automation pipeline.
+
+### 💡 [Wisl](https://github.com/crayon-wisl) (2025.10)
+
+A collaborative AI idea-expansion & funding ecosystem built on a microservice architecture (MSA).
+WISL enables users to grow ideas from concept → proposal → funding → realization, integrating AI mind-mapping, funding, and planning modules.
+Role: **Back-End Developer** — implemented core business logic for funding, planning, and notification services within a Spring Cloud–based MSA environment.
+
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XIOZ119&layout=compact)
