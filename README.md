@@ -93,8 +93,8 @@ Role: **Back-End Developer** — implemented core business logic for funding, pl
 
 ### 🗺️ [o-O](https://github.com/o-O-ssafy) (2025.11)
 
-An AI-powered collaborative mind-mapping platform that visualizes ideas as living structures.
-o-O enables teams to transform scattered thoughts into structured plans through interactive visual layouts, real-time collaboration, and AI-assisted idea expansion.
+An AI-powered collaborative mind-mapping platform that visualizes ideas as living structures. 
+o-O enables teams to transform scattered thoughts into structured plans through interactive visual layouts, real-time collaboration, and AI-assisted idea expansion. </br>
 Role: **Front-End Developer** - Focused on building interactive mind-map visualizations, real-time collaborative UI, and data-driven layouts that allow users to intuitively explore and expand ideas.
 
 
