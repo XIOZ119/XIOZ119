@@ -91,6 +91,12 @@ WISL enables users to grow ideas from concept → proposal → funding → reali
 Role: **Back-End Developer** — implemented core business logic for funding, planning, and notification services within a Spring Cloud–based MSA environment.
 
 
+### 🗺️ [o-O](https://github.com/o-O-ssafy) (2025.11)
+
+An AI-powered collaborative mind-mapping platform that visualizes ideas as living structures.
+o-O enables teams to transform scattered thoughts into structured plans through interactive visual layouts, real-time collaboration, and AI-assisted idea expansion.
+Role: **Front-End Developer** - Focused on building interactive mind-map visualizations, real-time collaborative UI, and data-driven layouts that allow users to intuitively explore and expand ideas.
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XIOZ119&layout=compact)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sieun4449)](https://solved.ac/sieun4449/)
