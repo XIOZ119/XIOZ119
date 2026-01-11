@@ -3,7 +3,7 @@ A **Back-End Developer** passionate about clean and efficient code.
 
 ## 👩🏻‍💻 About Me
 
-- 📌 Currently studying at SSAFY to deepen my back-end development skills.
+- 📌 Completed SSAFY (Samsung Software Academy For Youth), where I focused on strengthening my back-end development skills.
 - 🚀 Interested in scalable system architecture and clean code practices.
 - 🎯 Future goal: Become a back-end developer who can contribute to impactful projects.
 
@@ -44,7 +44,7 @@ A **Back-End Developer** passionate about clean and efficient code.
 
 ## 🧑🏻‍💻 History
 
-- **2025.01 ~ Present**  
+- **2025.01 ~ 2025.12**
   SSAFY 13th - Mobile Track
 
 - **2019.03 ~ 2025.02**  
