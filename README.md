@@ -1,7 +1,7 @@
 # Hong Sieun
 A **Back-End Developer** passionate about clean and efficient code.
 
-- ## 👩🏻‍💻 About Me
+## 👩🏻‍💻 About Me
 
 Back-End Developer focused on building scalable and reliable services with Java and Spring Boot.
 
