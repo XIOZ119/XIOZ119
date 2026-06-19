@@ -49,10 +49,13 @@ Currently, I am interested in performance optimization, cloud-native development
 ## 🧑🏻‍💻 History
 
 - **2026.01 ~ 2026.03**
+  </br>
   Practical MVP Development Bootcamp (KMS Korea Direct Market)
+  </br>
   Participated in a 9-week industry-driven bootcamp and e-commerce platform development project as a Back-End Developer.
   
 - **2025.01 ~ 2025.12**
+  </br>
   SSAFY 13th - Mobile Track
 
 - **2019.03 ~ 2025.02**  
@@ -64,7 +67,7 @@ Currently, I am interested in performance optimization, cloud-native development
 ### 🌾 HamkkeFarm (2026.01)
 
 An agricultural e-commerce platform connecting local farmers and consumers through online marketplaces. </br>
-Role: Back-End Vice Leader — developed product, store, and search APIs, designed database schemas, and improved performance using Redis caching and load testing.
+Role: **Back-End Vice Leader** — developed product, store, and search APIs, designed database schemas, and improved performance using Redis caching and load testing.
 
 ### 📰 [My-issue](https://github.com/My-issue-ssafy) (2025.09)
 
