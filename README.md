@@ -61,9 +61,9 @@ Currently, I am interested in performance optimization, cloud-native development
 
 ## 💻 Projects
 
-### 🌾 HamkkeFarm (2025.08)
+### 🌾 HamkkeFarm (2026.01)
 
-An agricultural e-commerce platform connecting local farmers and consumers through online marketplaces. 
+An agricultural e-commerce platform connecting local farmers and consumers through online marketplaces. </br>
 Role: Back-End Vice Leader — developed product, store, and search APIs, designed database schemas, and improved performance using Redis caching and load testing.
 
 ### 📰 [My-issue](https://github.com/My-issue-ssafy) (2025.09)
