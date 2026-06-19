@@ -1,11 +1,15 @@
 # Hong Sieun
 A **Back-End Developer** passionate about clean and efficient code.
 
-## 👩🏻‍💻 About Me
+- ## 👩🏻‍💻 About Me
 
-- 📌 Completed SSAFY (Samsung Software Academy For Youth), where I focused on strengthening my back-end development skills.
-- 🚀 Interested in scalable system architecture and clean code practices.
-- 🎯 Future goal: Become a back-end developer who can contribute to impactful projects.
+Back-End Developer focused on building scalable and reliable services with Java and Spring Boot.
+
+Through multiple team projects, I have gained hands-on experience in API development, database design, performance optimization, cloud deployment, and CI/CD automation.
+
+I enjoy identifying bottlenecks through metrics and improving system performance with practical solutions such as caching, query optimization, and architecture design.
+
+Currently, I am interested in performance optimization, cloud-native development, and building AI-powered applications.
 
 ## 🌐 Connect with Me
 
@@ -44,6 +48,10 @@ A **Back-End Developer** passionate about clean and efficient code.
 
 ## 🧑🏻‍💻 History
 
+- **2026.01 ~ 2026.03**
+  Practical MVP Development Bootcamp (KMS Korea Direct Market)
+  Participated in a 9-week industry-driven bootcamp and e-commerce platform development project as a Back-End Developer.
+  
 - **2025.01 ~ 2025.12**
   SSAFY 13th - Mobile Track
 
@@ -53,20 +61,28 @@ A **Back-End Developer** passionate about clean and efficient code.
 
 ## 💻 Projects
 
-### ☕️ [Company-Internal-Cafe-System](https://github.com/XIOZ119/Company-Internal-Cafe-System) (2023.10)
+### 🌾 HamkkeFarm (2025.08)
 
-An internal cafe ordering system using **PHP** and **MySQL**.  
-Role: **Team Leader** — implemented menu ordering logic and managed the database.
+An agricultural e-commerce platform connecting local farmers and consumers through online marketplaces. 
+Role: Back-End Vice Leader — developed product, store, and search APIs, designed database schemas, and improved performance using Redis caching and load testing.
 
-### 📚 [CBNU-Mentor-Mentee](https://github.com/MentorMenteeCore/mentor-mentee-front) (2024.07)
+### 📰 [My-issue](https://github.com/My-issue-ssafy) (2025.09)
 
-A mentorship matching website for Chungbuk National University using **TypeScript** and **React**.  
-Role: **Sole Front-End Developer** — built the entire front-end independently.
+A multi-modal personalized news platform that transforms text articles into four-panel comics and short podcasts,
+offering an immersive news experience in minimal time. </br>
+Role: **Back-End Developer** — developed JWT authentication, personalized push notifications, and a podcast automation pipeline.
 
-### 🍳 Yoriyo (2025.05)
+### 🗺️ [o-O](https://github.com/o-O-ssafy) (2025.11)
 
-A cooking ingredient ordering store and cart-based AI recipe recommendation app using **Kotlin** and **Firebase**. </br>
-Role: **Front-End Developer** — designed UI/UX, implemented screens, added store map lookup, and integrated notifications with FCM.
+An AI-powered collaborative mind-mapping platform that visualizes ideas as living structures. 
+o-O enables teams to transform scattered thoughts into structured plans through interactive visual layouts, real-time collaboration, and AI-assisted idea expansion. </br>
+Role: **Front-End Developer** - Focused on building interactive mind-map visualizations, real-time collaborative UI, and data-driven layouts that allow users to intuitively explore and expand ideas.
+
+### 💡 [Wisl](https://github.com/crayon-wisl) (2025.10)
+
+A collaborative AI idea-expansion & funding ecosystem built on a microservice architecture (MSA).
+WISL enables users to grow ideas from concept → proposal → funding → realization, integrating AI mind-mapping, funding, and planning modules. </br>
+Role: **Back-End Developer** — implemented core business logic for funding, planning, and notification services within a Spring Cloud–based MSA environment.
 
 ### 📋 [Port-It](https://github.com/chungbuk-data-contest) (2025.06)
 
@@ -78,25 +94,20 @@ Role: **Back-End Developer** — developed key business logic for portfolio and 
 An AI-driven creativity learning platform designed for elementary after-school programs. By recognizing real tangram pieces through a camera, JJongle turns analog learning into interactive digital games. </br>
 Role: **Back-End Developer** — built learning content APIs, designed the MSA infrastructure, and optimized inter-service communication.
 
-### 📰 [My-issue](https://github.com/My-issue-ssafy) (2025.09)
+### 🍳 Yoriyo (2025.05)
 
-A multi-modal personalized news platform that transforms text articles into four-panel comics and short podcasts,
-offering an immersive news experience in minimal time. </br>
-Role: **Back-End Developer** — developed JWT authentication, personalized push notifications, and a podcast automation pipeline.
+A cooking ingredient ordering store and cart-based AI recipe recommendation app using **Kotlin** and **Firebase**. </br>
+Role: **Front-End Developer** — designed UI/UX, implemented screens, added store map lookup, and integrated notifications with FCM.
 
-### 💡 [Wisl](https://github.com/crayon-wisl) (2025.10)
+### 📚 [CBNU-Mentor-Mentee](https://github.com/MentorMenteeCore/mentor-mentee-front) (2024.07)
 
-A collaborative AI idea-expansion & funding ecosystem built on a microservice architecture (MSA).
-WISL enables users to grow ideas from concept → proposal → funding → realization, integrating AI mind-mapping, funding, and planning modules. </br>
-Role: **Back-End Developer** — implemented core business logic for funding, planning, and notification services within a Spring Cloud–based MSA environment.
+A mentorship matching website for Chungbuk National University using **TypeScript** and **React**.  
+Role: **Sole Front-End Developer** — built the entire front-end independently.
 
+### ☕️ [Company-Internal-Cafe-System](https://github.com/XIOZ119/Company-Internal-Cafe-System) (2023.10)
 
-### 🗺️ [o-O](https://github.com/o-O-ssafy) (2025.11)
-
-An AI-powered collaborative mind-mapping platform that visualizes ideas as living structures. 
-o-O enables teams to transform scattered thoughts into structured plans through interactive visual layouts, real-time collaboration, and AI-assisted idea expansion. </br>
-Role: **Front-End Developer** - Focused on building interactive mind-map visualizations, real-time collaborative UI, and data-driven layouts that allow users to intuitively explore and expand ideas.
-
+An internal cafe ordering system using **PHP** and **MySQL**.  
+Role: **Team Leader** — implemented menu ordering logic and managed the database.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XIOZ119&layout=compact)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sieun4449)](https://solved.ac/sieun4449/)
